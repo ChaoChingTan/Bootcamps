@@ -8,7 +8,7 @@ The [AWS Cloud Practitioner Exam](https://aws.amazon.com/certification/certified
 
 The AWS Certified Cloud Practitioner is a foundational certificate:
 
-<img src="https://d2908q01vomqb2.cloudfront.net/77de68daecd823babbb58edb1c8e14d7106e83bb/2019/02/01/AWS-Cerfified.png"  width="50%" height="50%">
+![AWS Certification](https://d2908q01vomqb2.cloudfront.net/77de68daecd823babbb58edb1c8e14d7106e83bb/2019/02/01/AWS-Cerfified.png)
 
 [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf) Details the different domains tested, weightage and terminonolgies which might be tested.
 
@@ -30,35 +30,35 @@ ii. Create an [AWS Certification account](https://www.aws.training/Certification
 
 iii. Login to your certification account. You may be asked to agree to the AWS Certification Program Agreement:
 
-<img src="images/agreement.png" width="50%" height="50%">
+![Agreement](images/agreement.png)
 
 iv. After agreeing to the T&Cs, you will be shown a dashboard similar to the one below:
 
-<img src="images/manage_exams.png" width="50%" height="50%">
+![Manage_Exams](images/manage_exams.png)
 
 v. Click on "Schedule Exams" to continue:
 
-<img src="images/schedule_exam.png" width="50%" height="50%">
+![Schedule_Exam](images/schedule_exam.png)
 
 vi. Select PearsonVue for AWS Certified Cloud Practitioner option as your vouchers are only valid for PearsonVue.  You will be redirected to the PearsonVue site.  Note that there is actually an online proctored exam option, however that is not encouraged:
 
-<img src="images/online_option.png" width="50%" height="50%">
+![online_option](images/online_option.png)
 
 vii. Select "At a test center" (recommended), after which you will be prompted to select exam language and presented with exam T&Cs:
 
-<img src="images/exam_options.png" width="50%" height="50%">
+![Exam_Options](images/exam_options.png)
 
 viii. Select your test center and check test date availability, you can search for test centers near you:
 
-<img src="images/test_locations.png" width="50%" height="50%">
+![test_locations](images/test_locations.png)
 
 ix. Select your preferred Date and Time:
 
-<img src="images/select_date_time.png" width="50%" height="50%">
+![select_date_time](images/select_date_time.png)
 
 x. At checkout, this is the place that you can enter your voucher code:
 
-<img src="images/checkout.png" width="50%" height="50%">
+![checkout](images/checkout.png)
 
 ## 4. AWS Academy Resources
 
