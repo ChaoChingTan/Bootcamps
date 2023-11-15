@@ -87,3 +87,4 @@ For SoE students, refer to this [document](https://docs.google.com/document/d/1R
 ## 7. Miscellaneous
 
 Please keep me updated of your certification attempts.  Good luck.
+
